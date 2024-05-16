@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MortysDataCollector.Core", "MortysDataCollector.Core\MortysDataCollector.Core.csproj", "{F73C7960-FD0B-455A-A01A-12CA33DAE5E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MortysDataCollector.Application", "MortysDataCollector.Application\MortysDataCollector.Application.csproj", "{2B74BFA5-3045-455E-88DB-52434631D28D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MortysDataCollector.Infrastructure", "MortysDataCollector.Infrastructure\MortysDataCollector.Infrastructure.csproj", "{1813ACFD-E1C5-4452-9AAB-B54ED5A718CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MortysDataCollector.Presentation", "MortysDataCollector.Presentation\MortysDataCollector.Presentation.csproj", "{DAE1A185-525B-4A49-97FD-7FEBF14F7543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F73C7960-FD0B-455A-A01A-12CA33DAE5E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73C7960-FD0B-455A-A01A-12CA33DAE5E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73C7960-FD0B-455A-A01A-12CA33DAE5E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73C7960-FD0B-455A-A01A-12CA33DAE5E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B74BFA5-3045-455E-88DB-52434631D28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B74BFA5-3045-455E-88DB-52434631D28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B74BFA5-3045-455E-88DB-52434631D28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B74BFA5-3045-455E-88DB-52434631D28D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1813ACFD-E1C5-4452-9AAB-B54ED5A718CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1813ACFD-E1C5-4452-9AAB-B54ED5A718CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1813ACFD-E1C5-4452-9AAB-B54ED5A718CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1813ACFD-E1C5-4452-9AAB-B54ED5A718CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE1A185-525B-4A49-97FD-7FEBF14F7543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE1A185-525B-4A49-97FD-7FEBF14F7543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE1A185-525B-4A49-97FD-7FEBF14F7543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE1A185-525B-4A49-97FD-7FEBF14F7543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
