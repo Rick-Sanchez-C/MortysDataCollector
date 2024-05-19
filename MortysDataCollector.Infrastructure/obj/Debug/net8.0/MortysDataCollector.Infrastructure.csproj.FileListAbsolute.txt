@@ -1,0 +1,15 @@
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Infrastructure\bin\Debug\net8.0\MortysDataCollector.Infrastructure.deps.json
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Infrastructure\bin\Debug\net8.0\MortysDataCollector.Infrastructure.dll
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Infrastructure\bin\Debug\net8.0\MortysDataCollector.Infrastructure.pdb
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Infrastructure\bin\Debug\net8.0\MortysDataCollector.Core.dll
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Infrastructure\bin\Debug\net8.0\MortysDataCollector.Core.pdb
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Infrastructure\obj\Debug\net8.0\MortysDataCollector.Infrastructure.csproj.AssemblyReference.cache
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Infrastructure\obj\Debug\net8.0\MortysDataCollector.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Infrastructure\obj\Debug\net8.0\MortysDataCollector.Infrastructure.AssemblyInfoInputs.cache
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Infrastructure\obj\Debug\net8.0\MortysDataCollector.Infrastructure.AssemblyInfo.cs
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Infrastructure\obj\Debug\net8.0\MortysDataCollector.Infrastructure.csproj.CoreCompileInputs.cache
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Infrastructure\obj\Debug\net8.0\MortysDa.FA6C99CD.Up2Date
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Infrastructure\obj\Debug\net8.0\MortysDataCollector.Infrastructure.dll
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Infrastructure\obj\Debug\net8.0\refint\MortysDataCollector.Infrastructure.dll
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Infrastructure\obj\Debug\net8.0\MortysDataCollector.Infrastructure.pdb
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Infrastructure\obj\Debug\net8.0\ref\MortysDataCollector.Infrastructure.dll

@@ -1,0 +1,11 @@
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Core\bin\Debug\net8.0\MortysDataCollector.Core.deps.json
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Core\bin\Debug\net8.0\MortysDataCollector.Core.dll
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Core\bin\Debug\net8.0\MortysDataCollector.Core.pdb
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Core\obj\Debug\net8.0\MortysDataCollector.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Core\obj\Debug\net8.0\MortysDataCollector.Core.AssemblyInfoInputs.cache
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Core\obj\Debug\net8.0\MortysDataCollector.Core.AssemblyInfo.cs
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Core\obj\Debug\net8.0\MortysDataCollector.Core.csproj.CoreCompileInputs.cache
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Core\obj\Debug\net8.0\MortysDataCollector.Core.dll
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Core\obj\Debug\net8.0\refint\MortysDataCollector.Core.dll
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Core\obj\Debug\net8.0\MortysDataCollector.Core.pdb
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Core\obj\Debug\net8.0\ref\MortysDataCollector.Core.dll

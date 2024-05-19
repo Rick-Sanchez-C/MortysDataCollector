@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "nW1ZL+FH2IuPIdjHNnXpJ4hv/giYRjYHfGOvdgVPTpAO48csdpxl4vWwVW9jiYCjZ8xlsABrgK2BXUEKMebXsg==",
+  "success": true,
+  "projectFilePath": "D:\\rider\\Mortys_Data_Collector\\MortysDataCollector\\MortysDataCollector.Infrastructure\\MortysDataCollector.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rick_\\.nuget\\packages\\hardware.info\\100.1.0\\hardware.info.100.1.0.nupkg.sha512",
+    "C:\\Users\\rick_\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\rick_\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\rick_\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\rick_\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\rick_\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\rick_\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\rick_\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512",
+    "C:\\Users\\rick_\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\rick_\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\rick_\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
