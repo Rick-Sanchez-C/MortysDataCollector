@@ -1,0 +1,15 @@
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Application\bin\Debug\net8.0\MortysDataCollector.Application.deps.json
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Application\bin\Debug\net8.0\MortysDataCollector.Application.dll
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Application\bin\Debug\net8.0\MortysDataCollector.Application.pdb
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Application\bin\Debug\net8.0\MortysDataCollector.Core.dll
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Application\bin\Debug\net8.0\MortysDataCollector.Core.pdb
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Application\obj\Debug\net8.0\MortysDataCollector.Application.csproj.AssemblyReference.cache
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Application\obj\Debug\net8.0\MortysDataCollector.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Application\obj\Debug\net8.0\MortysDataCollector.Application.AssemblyInfoInputs.cache
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Application\obj\Debug\net8.0\MortysDataCollector.Application.AssemblyInfo.cs
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Application\obj\Debug\net8.0\MortysDataCollector.Application.csproj.CoreCompileInputs.cache
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Application\obj\Debug\net8.0\MortysDa.03FA3755.Up2Date
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Application\obj\Debug\net8.0\MortysDataCollector.Application.dll
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Application\obj\Debug\net8.0\refint\MortysDataCollector.Application.dll
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Application\obj\Debug\net8.0\MortysDataCollector.Application.pdb
+D:\rider\Mortys_Data_Collector\MortysDataCollector\MortysDataCollector.Application\obj\Debug\net8.0\ref\MortysDataCollector.Application.dll

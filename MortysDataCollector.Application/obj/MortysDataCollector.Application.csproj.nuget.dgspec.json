@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\rider\\Mortys_Data_Collector\\MortysDataCollector\\MortysDataCollector.Application\\MortysDataCollector.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\rider\\Mortys_Data_Collector\\MortysDataCollector\\MortysDataCollector.Application\\MortysDataCollector.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\rider\\Mortys_Data_Collector\\MortysDataCollector\\MortysDataCollector.Application\\MortysDataCollector.Application.csproj",
+        "projectName": "MortysDataCollector.Application",
+        "projectPath": "D:\\rider\\Mortys_Data_Collector\\MortysDataCollector\\MortysDataCollector.Application\\MortysDataCollector.Application.csproj",
+        "packagesPath": "C:\\Users\\rick_\\.nuget\\packages\\",
+        "outputPath": "D:\\rider\\Mortys_Data_Collector\\MortysDataCollector\\MortysDataCollector.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rick_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\rider\\Mortys_Data_Collector\\MortysDataCollector\\MortysDataCollector.Core\\MortysDataCollector.Core.csproj": {
+                "projectPath": "D:\\rider\\Mortys_Data_Collector\\MortysDataCollector\\MortysDataCollector.Core\\MortysDataCollector.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\rick_\\.dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\rider\\Mortys_Data_Collector\\MortysDataCollector\\MortysDataCollector.Core\\MortysDataCollector.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\rider\\Mortys_Data_Collector\\MortysDataCollector\\MortysDataCollector.Core\\MortysDataCollector.Core.csproj",
+        "projectName": "MortysDataCollector.Core",
+        "projectPath": "D:\\rider\\Mortys_Data_Collector\\MortysDataCollector\\MortysDataCollector.Core\\MortysDataCollector.Core.csproj",
+        "packagesPath": "C:\\Users\\rick_\\.nuget\\packages\\",
+        "outputPath": "D:\\rider\\Mortys_Data_Collector\\MortysDataCollector\\MortysDataCollector.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rick_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\rick_\\.dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
