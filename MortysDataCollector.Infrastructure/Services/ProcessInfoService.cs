@@ -5,7 +5,7 @@ using MortysDataCollector.Core.Interfaces;
 
 namespace MortysDataCollector.Infrastructure.Services;
 
-public class ProcessInfoService : ISystemInfoService
+public class ProcessInfoService : IProcessInfoService
 {
     public IEnumerable<ProcessInfo> GetRunningProcesses()
     {

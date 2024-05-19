@@ -5,14 +5,14 @@ namespace MortysDataCollector.Application.Services;
 
 public class MonitorService
 {
-    private readonly ISystemInfoService _systemInfoService;
-    public MonitorService(ISystemInfoService systemInfoService)
+    private readonly IProcessInfoService _processInfoService;
+    public MonitorService(IProcessInfoService processInfoService)
     {
-        _systemInfoService = systemInfoService;
+        _processInfoService = processInfoService;
     }
     
     public IEnumerable<ProcessInfo> GetSystemInfo()
     {
-        return _systemInfoService.GetRunningProcesses();
+        return _processInfoService.GetRunningProcesses();
     }
 }

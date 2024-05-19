@@ -8,7 +8,7 @@ using MortysDataCollector.Presentation;
 var host = Host.CreateDefaultBuilder(args)
     .ConfigureServices((hostContext, services) =>
     {
-        services.AddSingleton<ISystemInfoService, ProcessInfoService>();
+        services.AddSingleton<IProcessInfoService, ProcessInfoService>();
         services.AddSingleton<MonitorService>();
         services.AddHostedService<Worker>();
     })

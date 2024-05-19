@@ -3,7 +3,7 @@ using MortysDataCollector.Core.Entities;
 
 namespace MortysDataCollector.Core.Interfaces;
 
-public interface ISystemInfoService
+public interface IProcessInfoService
 {
     IEnumerable<ProcessInfo> GetRunningProcesses();
 }
